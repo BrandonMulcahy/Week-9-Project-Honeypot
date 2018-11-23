@@ -13,7 +13,7 @@ Attacks began to flow in immediately.
 
 ## Attack Data
 
-I was using a Windows PC for this assignment, so I needed to download PSCP from PuTTY's website to remotely connect to my MHN server and download the session.json file as directed by the assignment. The data in the short time my honeypot was up, as reported by MHN is below. I have uploaded the session.json file to this repo as well.
+I was using a Windows PC for this assignment, so I needed to download PSCP from PuTTY's website to remotely connect to my MHN server and download the session.json file as directed by the assignment. The data in the short time my honeypot was up, as reported by MHN, is below. I have uploaded the session.json file to this repo as well.
 
 ### Attack Stats
 #### Attacks in the last 24 hours:
